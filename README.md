@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi everyone!</h1>
-
+<br />
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=Welcome+to+my+profile!;Look+around,+you+can+find+me...;Just+in+case..." alt="Typing SVG" />
 </p>
