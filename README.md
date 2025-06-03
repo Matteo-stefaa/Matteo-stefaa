@@ -48,6 +48,6 @@
   <a href="mailto:matteo.stefani0101@gmail.com"><img src="https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/matteo-stefani-78aa4b17b/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://matteostefani.vercel.app/">
-    <img src="https://img.shields.io/badge/-Sito_Web-000000?style=flat&logo=globe&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Website-000000?style=flat&logo=globe&logoColor=white"/>
   </a>
 </p>
