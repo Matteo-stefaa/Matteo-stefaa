@@ -50,7 +50,7 @@
 
 <div align="right">
 
-  ## 📫 Contact Me
+  ## 📫 References
 
   <p >
     <a href="mailto:matteo.stefani0101@gmail.com"><img src="https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail&logoColor=white"/></a>
