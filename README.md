@@ -27,9 +27,7 @@
 
 ## 📊 GitHub Stats
 
-<div style="display:flex; flex-wrap:wrap; justify-content:left;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Matteo-stefaa&show_icons=true&theme=ambient_gradient&count_private=true" alt="GitHub Stats" height="200"/>
-</div>
+![Matteo-stefaa's summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matteo-stefaa&theme=github_dark)
 
 ---
 
