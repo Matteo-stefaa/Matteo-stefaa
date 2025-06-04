@@ -37,9 +37,9 @@
 ## 🧠 About me
 
 - 🎯 Always looking for new **opportunities**
-- 📚 Working and studying for my **future** 💪
-- 🤝 always looking for new people to expand my **network**
-- 🌱 Currently studying **Artificial Intelligence** at **G. Marconi University**
+- 💪 Working and studying for my **future** 
+- 🤝 Open to new contacts for my **network**
+- 📚 Currently studying **Artificial Intelligence** at **G. Marconi University**
 
 ---
 
