@@ -36,7 +36,7 @@
   ## 🧠 About Me
 
   🎓 Currently studying **Artificial Intelligence** at **G. Marconi University**  
-  💼 Working on projects with **.NET**, **React**, and exploring **AI** solutions  
+  💼 Working on projects with **.NET**, **Blazor**, and exploring **AI** solutions  
   🌱 Constantly learning and growing through code and curiosity  
   🤝 Open to collaborations and always looking to expand my network
 </div>
