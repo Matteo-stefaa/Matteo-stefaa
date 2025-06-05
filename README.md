@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, everyone!</h1>
-<p align="center">A passionate developer eager to build, learn, and connect.</p>
+<p align="center">That's me! A passionate developer eager to build, learn, and connect.</p>
 
 <br />
 
