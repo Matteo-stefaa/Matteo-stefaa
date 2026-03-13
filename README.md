@@ -1,62 +1,74 @@
-<h1 align="center">👋 Hi, everyone!</h1>
-<p align="center">That's me! A passionate developer eager to build, learn, and connect.</p>
+<div align="center">
 
-<br />
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27,12,14&height=200&section=header&text=Matteo%20Stefani&fontSize=50&fontColor=e8eef5&fontAlignY=35&desc=Software%20Engineer%20•%20AI%20Enthusiast%20•%20Builder&descSize=16&descColor=a0aac3&descAlignY=55&animation=fadeIn" width="100%" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=Welcome+to+my+profile!;You'll+find+code+and+more...;Let's+build+something+great!" alt="Typing SVG" />
-</p>
+<!-- Animated typing -->
+<a href="https://matteostefani.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=300&size=22&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&width=500&height=30&lines=Building+what+matters%2C+one+commit+at+a+time;Full-stack+development+%7C+Cloud+%7C+AI;Clean+architecture+%26+real-world+impact" alt="Typing SVG" />
+</a>
 
-## 🚀 Tech Stack
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
-![Blazor](https://img.shields.io/badge/-Blazor-05122A?style=flat&logo=blazor)
+<br/><br/>
 
-![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=orange)
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+<table>
+<tr>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=dotnet" width="40" height="40" alt=".NET" />
+  <br/><sub><b>.NET</b></sub>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
+  <br/><sub><b>React</b></sub>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" />
+  <br/><sub><b>TypeScript</b></sub>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" />
+  <br/><sub><b>Node.js</b></sub>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
+  <br/><sub><b>PostgreSQL</b></sub>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" />
+  <br/><sub><b>Python</b></sub>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
+  <br/><sub><b>Docker</b></sub>
+</td>
+<td align="center" width="110">
+  <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
+  <br/><sub><b>Git</b></sub>
+</td>
+</tr>
+</table>
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft-sql-server)
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+<br/>
+
+<!-- Divider -->
+<hr/>
+
+<br/>
+
+</div>
 
 <div align="center">
 
-  ## 📊 GitHub Stats
+<br/>
 
-  ![Matteo-stefaa's summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matteo-stefaa&theme=github_dark)
-</div>
+### 🔗 Let's Connect
 
-<div align="right">
+[![Email](https://img.shields.io/badge/Email-matteo.stefani0101%40gmail.com-a855f7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0e27)](mailto:matteo.stefani0101@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matteo%20Stefani-60a5fa?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0e27)](https://www.linkedin.com/in/matteo-stefani-78aa4b17b/)
+[![Website](https://img.shields.io/badge/Portfolio-matteostefani.vercel.app-a855f7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0e27)](https://matteostefani.vercel.app/)
 
-  ## 🧠 About Me
+<br/>
 
-  🎓 Currently studying **Artificial Intelligence** at **G. Marconi University**  
-  💼 Working on projects with **.NET**, **Blazor**, and exploring **AI** solutions  
-  🌱 Constantly learning and growing through code and curiosity  
-  🤝 Open to collaborations and always looking to expand my network
-</div>
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27,12,14&height=100&section=footer" width="100%" />
 
-## 💡 Fun Facts
-
-- 🕹️ I love building prototypes and experimenting with new tools  
-- 🧗🏻‍♂️ I enjoy challenges – in and out of code  
-- 📍 Based in Italy 🇮🇹  
-
-
-<div align="right">
-
-  ## 📫 References
-
-  <p >
-    <a href="mailto:matteo.stefani0101@gmail.com"><img src="https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/matteo-stefani-78aa4b17b/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-    <a href="https://matteostefani.vercel.app/">
-      <img src="https://img.shields.io/badge/-Website-000000?style=flat&logo=globe&logoColor=white"/>
-    </a>
-  </p>
 </div>
