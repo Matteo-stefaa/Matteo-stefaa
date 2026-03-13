@@ -22,8 +22,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Matteo%20Stefani-60a5fa?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0e27)](https://www.linkedin.com/in/matteo-stefani-78aa4b17b/)
 [![Website](https://img.shields.io/badge/Portfolio-matteostefani.vercel.app-a855f7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0e27)](https://matteostefani.vercel.app/)
 
-<br/>
-
 <!-- Footer — same exact gradient as header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:a855f7,100:60a5fa&height=100&section=footer" width="100%" />
 
