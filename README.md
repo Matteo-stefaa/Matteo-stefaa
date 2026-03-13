@@ -12,6 +12,8 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=react&theme=dark" alt="Tech Stack" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver&theme=dark" alt="Tech Stack" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres&theme=dark" alt="Tech Stack" />
+</div>
+<div style="width:80%;margin:20px;">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&theme=dark" alt="Tech Stack" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=redis&theme=dark" alt="Tech Stack" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=rabbitmq&theme=dark" alt="Tech Stack" />
