@@ -9,7 +9,7 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=cs&theme=dark" alt="Tech Stack" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=ts&theme=dark" alt="Tech Stack" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=blazor&theme=dark" alt="Tech Stack" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=react&theme=dark" alt="Tech Stack" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=next&theme=dark" alt="Tech Stack" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver&theme=dark" alt="Tech Stack" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres&theme=dark" alt="Tech Stack" />
 </div>
