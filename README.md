@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27,12,14&height=200&section=header&text=Matteo%20Stefani&fontSize=50&fontColor=e8eef5&fontAlignY=35&desc=Software%20Engineer%20•%20AI%20Enthusiast%20•%20Builder&descSize=16&descColor=a0aac3&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:a855f7,100:60a5fa&height=200&section=header&text=Matteo%20Stefani&fontSize=50&fontColor=e8eef5&fontAlignY=35&desc=Software%20Engineer%20•%20AI%20Enthusiast%20•%20Builder&descSize=16&descColor=a0aac3&descAlignY=55&animation=fadeIn" width="100%" />
 
 <!-- Animated typing -->
 <a href="https://matteostefani.vercel.app/">
@@ -49,14 +49,7 @@
 
 <br/>
 
-<!-- Divider -->
-<hr/>
-
-<br/>
-
-</div>
-
-<div align="center">
+---
 
 <br/>
 
@@ -68,7 +61,7 @@
 
 <br/>
 
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27,12,14&height=100&section=footer" width="100%" />
+<!-- Footer — same exact gradient as header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:a855f7,100:60a5fa&height=100&section=footer" width="100%" />
 
 </div>
