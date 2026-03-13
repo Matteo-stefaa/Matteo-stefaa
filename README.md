@@ -10,7 +10,16 @@
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=dotnet,react,ts,nodejs,postgres,python,docker,git&theme=dark" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=dotnet&theme=dark" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=cs&theme=dark" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=react&theme=dark" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Tech Stack" />
 
 <br/>
 
