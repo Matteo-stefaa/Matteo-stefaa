@@ -5,7 +5,7 @@
 
 <!-- Animated typing -->
 <a href="https://matteostefani.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=300&size=22&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&width=500&height=30&lines=Building+what+matters%2C+one+commit+at+a+time;Full-stack+development+%7C+Cloud+%7C+AI;Clean+architecture+%26+real-world+impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=300&size=22&duration=4000&pause=1000&color=ffffff&center=true&vCenter=true&multiline=false&width=500&height=30&lines=Building+what+matters%2C+one+commit+at+a+time;Full-stack+development+%7C+Cloud+%7C+AI;Clean+architecture+%26+real-world+impact" alt="Typing SVG" />
 </a>
 
 <br/><br/>
