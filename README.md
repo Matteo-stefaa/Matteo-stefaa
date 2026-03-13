@@ -3,16 +3,24 @@
 <!-- Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:a855f7,100:60a5fa&height=200&section=header&text=Matteo%20Stefani&fontSize=50&fontColor=e8eef5&fontAlignY=35&desc=Software%20Engineer%20•%20AI%20Enthusiast%20•%20Builder&descSize=16&descColor=a0aac3&descAlignY=55&animation=fadeIn" width="100%" />
 
-<img src="https://skillicons.dev/icons?i=dotnet&theme=dark" alt="Tech Stack" />
-<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Tech Stack" />
-<img src="https://skillicons.dev/icons?i=cs&theme=dark" alt="Tech Stack" />
-<img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="Tech Stack" />
-<img src="https://skillicons.dev/icons?i=react&theme=dark" alt="Tech Stack" />
-<img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="Tech Stack" />
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Tech Stack" />
-<img src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Tech Stack" />
-<img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Tech Stack" />
-<img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Tech Stack" />
+<div style="width:80%;margin:20px;">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet&theme=dark" alt="Tech Stack" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs&theme=dark" alt="Tech Stack" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs&theme=dark" alt="Tech Stack" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ts&theme=dark" alt="Tech Stack" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=blazor&theme=dark" alt="Tech Stack" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=react&theme=dark" alt="Tech Stack" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver&theme=dark" alt="Tech Stack" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres&theme=dark" alt="Tech Stack" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&theme=dark" alt="Tech Stack" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=redis&theme=dark" alt="Tech Stack" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=rabbitmq&theme=dark" alt="Tech Stack" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=kafka&theme=dark" alt="Tech Stack" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark" alt="Tech Stack" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker&theme=dark" alt="Tech Stack" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=flyio&theme=dark" alt="Tech Stack" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=claude&theme=dark" alt="Tech Stack" />
+</div>
 
 <br/>
 
