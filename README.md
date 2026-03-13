@@ -10,42 +10,7 @@
 
 <br/><br/>
 
-<table>
-<tr>
-<td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=dotnet" width="40" height="40" alt=".NET" />
-  <br/><sub><b>.NET</b></sub>
-</td>
-<td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
-  <br/><sub><b>React</b></sub>
-</td>
-<td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" />
-  <br/><sub><b>TypeScript</b></sub>
-</td>
-<td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" />
-  <br/><sub><b>Node.js</b></sub>
-</td>
-<td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
-  <br/><sub><b>PostgreSQL</b></sub>
-</td>
-<td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" />
-  <br/><sub><b>Python</b></sub>
-</td>
-<td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
-  <br/><sub><b>Docker</b></sub>
-</td>
-<td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
-  <br/><sub><b>Git</b></sub>
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=dotnet,react,ts,nodejs,postgres,python,docker,git&theme=dark" alt="Tech Stack" />
 
 <br/>
 
