@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:a855f7,100:60a5fa&height=200&section=header&text=Matteo%20Stefani&fontSize=50&fontColor=e8eef5&fontAlignY=35&desc=Software%20Engineer%20•%20AI%20Enthusiast%20•%20Builder&descSize=16&descColor=a0aac3&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:a855f7,100:60a5fa&height=200&section=header&text=Matteo%20Stefani&fontSize=50&fontColor=e8eef5&fontAlignY=35&desc=Software%20Developer%20•%20AI%20Enthusiast%20•%20Builder&descSize=16&descColor=a0aac3&descAlignY=55&animation=fadeIn" width="100%" />
 
 <div style="width:80%;margin:20px;">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet&theme=dark" alt="Tech Stack" />
